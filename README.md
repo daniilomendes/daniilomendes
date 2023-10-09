@@ -1,12 +1,11 @@
 ## Olá, eu sou Danilo Mendes
 
-
 - Sou Graduando em Bacharel em Ciência da Computação pelo IFGoiano, com certificação em Full Stack JavaScript, Planejamento de projetos e Gestão Ágil com Scrum.
 - Estou estudando atualmente JavaScript e suas tecnologias.
 - Procuro colaborar com o aprendizado de Desenvolvimento em Aplicações Web.
 - Entre em contato com e-mail: danilo.mirandha@gmail.com
 
-## Aqui estão algumas das coisas que gosto de usar:
+# Aqui estão algumas das coisas que gosto de usar:
 
 No Front-end utilizo:
 
