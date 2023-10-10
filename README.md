@@ -5,7 +5,7 @@
 - Procuro colaborar com o aprendizado de Desenvolvimento em Aplicações Web.
 - Entre em contato com e-mail: danilo.mirandha@gmail.com
 
-## Aqui estão algumas das coisas que gosto de usar:
+### Aqui estão algumas das coisas que gosto de usar:
 
 No Front-end utilizo:
 
